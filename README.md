@@ -94,8 +94,8 @@ Heater OFF/ON examples.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/oussenn/CapstoneProject.git
-cd CapstoneProject
+git clone https://github.com/oussenn/Dynamic-Smart-Heating-Control-System.git
+cd Dynamic-Smart-Heating-Control-System
 ```
 
 ---
