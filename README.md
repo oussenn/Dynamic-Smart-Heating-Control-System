@@ -36,9 +36,13 @@ current classes cards highlighting active courses and locations.
 | Layer    | Languages        | Frameworks / Libraries                                                              | Services / Tooling      |
 |----------|------------------|--------------------------------------------------------------------------------------|-------------------------|
 | Backend  | Python           | FastAPI, Uvicorn, psycopg[binary], sse-starlette, NumPy, Matplotlib                 | PostgreSQL, StaticFiles |
-| Frontend | TypeScript, JS   | Next.js, React, Tailwind CSS, Leaflet, Recharts, Radix UI, clsx, Lucide, React Router DOM | Vercel, ESLint          |
+| Frontend | JavaScript (some TS)  | Next.js, React, Tailwind CSS, Leaflet, Recharts, Radix UI, clsx, Lucide, React Router DOM | Vercel, ESLint          |
 
-Visual references: Figure 29 (Python runtime snapshot), Figure 30 (FastAPI stack diagram), Figure 31 (back-end interface view).
+
+![React](https://github.com/user-attachments/assets/d1feff00-4288-410f-97a4-3f31a9304ec1)   <img width="1052" height="1052" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/3d95e496-6c76-48f5-a668-8bf1ade4423f" />
+
+
+<img width="269" height="326" alt="python-logo-only" src="https://github.com/user-attachments/assets/9a711594-f6e0-40ea-9621-adaafacbda8a" />   <img width="810" height="900" alt="pngegg" src="https://github.com/user-attachments/assets/2876d9cd-cf85-4251-8afb-fcdc2a625fa1" />
 
 ---
 
@@ -50,7 +54,31 @@ Visual references: Figure 29 (Python runtime snapshot), Figure 30 (FastAPI stack
 - Analytics dashboard with charts for current classes, heater states, and occupancy timelines.
 - Backend visualization utilities for diagnostics and reporting.
 
-Visual references: Figure 23 (occupancy timeline for Building 4), Figure 24 (room selection interface), Figure 26 (campus map interface), Figure 27 (heatmap legend), Figure 28 (building occupancy cards), Figures 32 and 33 (heater OFF/ON examples).
+
+<img width="954" height="414" alt="image" src="https://github.com/user-attachments/assets/89415451-2bbc-43d0-b21d-220787b1e89d" />
+occupancy timeline for Building 4.
+
+
+<img width="852" height="578" alt="image" src="https://github.com/user-attachments/assets/d569e432-47b0-4ec9-b09f-2778cc8567a4" />
+
+Room selection interface.
+
+<img width="944" height="465" alt="image" src="https://github.com/user-attachments/assets/4f706513-da9e-410a-bf8c-7096766a56f6" />
+
+Campus map interface.
+
+
+<img width="219" height="222" alt="image" src="https://github.com/user-attachments/assets/8992606a-2c5f-4db8-a0e1-ad2e82b89c2d" />
+
+Heatmap legend.
+
+<img width="949" height="146" alt="image" src="https://github.com/user-attachments/assets/e1f4238b-1c81-41bf-95f5-2760e48d838a" />
+
+Building occupancy cards. 
+
+<img width="901" height="449" alt="image" src="https://github.com/user-attachments/assets/c63fe23f-2ad4-491b-871d-7e4836040752" />
+
+Heater OFF/ON examples.
 
 ---
 
@@ -104,31 +132,88 @@ Open `http://localhost:3000` to view the dashboard.
 - **JSON APIs**: Provide building, room, and class data for heatmaps and dashboards.
 - **Static assets**: Served for embedded reports and diagnostics.
 
-Visual references: Figure 34 (JSON response for Building 8B Room 108), Figure 35 (HTML output for Building NAB Room 204), Figure 36 (JSON output for Building NAB Room 204), Figure 46 (SSE `/events` response payload).
+
+
+<img width="888" height="278" alt="image" src="https://github.com/user-attachments/assets/ae4cea54-4122-4fe7-b46e-137a652f0348" />
+
+
+JSON response for Building 8B Room 108. 
+
+<img width="690" height="635" alt="image" src="https://github.com/user-attachments/assets/ae8dd3fa-213b-47ad-b1c0-cc0b1114918a" />
+
+
+HTML output for Building NAB Room 204. 
+
+
+<img width="1600" height="202" alt="image" src="https://github.com/user-attachments/assets/745f325b-9a1e-4423-9432-3f01d82da12a" />
+
+
+JSON output for Building NAB Room 204. 
+
+<img width="1840" height="225" alt="image" src="https://github.com/user-attachments/assets/abab5b40-f087-48f6-98ba-86e746c1e0a5" />
+
+SSE `/events` response payload.
 
 ---
 
 ## Heatmaps and Occupancy Scenarios
 
-- Figure 40 — Building 4 Room 104 weekday occupancy dashboard.  
-- Figure 41 — Weekday occupancy map across campus.  
-- Figure 42 — Building 6 Room 8 weekend occupancy dashboard.  
-- Figure 43 — Weekend campus occupancy map showing unoccupied buildings.
+
+<img width="1750" height="881" alt="image" src="https://github.com/user-attachments/assets/6f2c3e9e-5046-4386-a8de-4e049e7f7f8a" />
+
+Building 4 Room 104 weekday occupancy dashboard.
+
+<img width="1919" height="666" alt="image" src="https://github.com/user-attachments/assets/c7f943fe-20cf-45f2-8ddc-8ee67ae1d475" />
+
+Weekday occupancy map across campus.
+
+<img width="1789" height="852" alt="image" src="https://github.com/user-attachments/assets/b0e8dbad-ff09-4e85-bb1e-df67b215bb14" />
+
+
+Building 6 Room 8 weekend occupancy dashboard.
+
+<img width="1526" height="734" alt="image" src="https://github.com/user-attachments/assets/80acef4a-081e-4f1e-a4b1-67c378708548" />
+
+Weekend campus occupancy map showing unoccupied buildings.
 
 ---
 
 ## Architecture and Hardware
 
-- Figure 38 — System architecture and data pipeline from sensors to dashboards.  
-- Figure 37 — Atlantic F117P heater (1000 W) used in the deployment.
+<img width="851" height="619" alt="image" src="https://github.com/user-attachments/assets/4d211b94-0072-4c28-8004-d32369b9246b" />
+
+
+System architecture and data pipeline from sensors to dashboards.
+
+
+<img width="571" height="505" alt="image" src="https://github.com/user-attachments/assets/a0f79332-02ab-4f2f-bbe7-9c4ad2ee7bc4" />
+
+
+Atlantic F117P heater (1000 W) used in the deployment.
 
 ---
 
 ## Heater State and Analytics
 
-- Figure 44 — Heater OFF state (Building NAB, Room 204).  
-- Figure 45 — Heater ON state (Building NAB, Room 204).  
-- Figure 47 — Temperature and heater state graph (Test Case 1).  
+
+<img width="710" height="831" alt="image" src="https://github.com/user-attachments/assets/ba1147c6-6637-4f84-9757-0157e7467028" />
+
+
+- Figure 44 — Heater OFF state (Building NAB, Room 204).
+
+<img width="812" height="730" alt="image" src="https://github.com/user-attachments/assets/ac4c11de-f2f0-4ad4-bade-b1bdd2d9d1f2" />
+
+
+- Figure 45 — Heater ON state (Building NAB, Room 204).
+
+<img width="1456" height="723" alt="image" src="https://github.com/user-attachments/assets/1cc780fa-f419-4689-bb38-5a81866bf29e" />
+
+  
+- Figure 47 — Temperature and heater state graph (Test Case 1).
+
+<img width="1496" height="736" alt="image" src="https://github.com/user-attachments/assets/e9aab4f1-a4f3-4960-b4b9-d6319e594fa0" />
+
+
 - Figure 48 — Temperature and heater state graph (Test Case 2).
 
 ---
@@ -159,10 +244,8 @@ Visual references: Figure 34 (JSON response for Building 8B Room 108), Figure 35
 - [x] Class schedule integration via PostgreSQL
 - [x] Occupancy dashboard with heatmap overlays
 - [x] SSE-based backend streaming
-- [ ] Integrated visual gallery page for dashboards, maps, and heater states
 - [ ] Sensor-based occupancy via Arduino
 - [ ] Comparative analysis of heating modes
-- [ ] Thermodynamic modeling by room size
 - [ ] External API integration (GoCampus)
 
 ---
