@@ -9,6 +9,11 @@
 
 A real-time, energy-aware platform that adjusts building heating based on class schedules and live occupancy. The system combines a FastAPI back end, PostgreSQL data store, and a Next.js dashboard with geospatial heatmaps to reduce energy waste across campus buildings.
 
+
+Full Report:
+
+[Dynamic_Smart_Heating_Control_with_Real-Time_Occupancy_Monitoring_System_Final_report_Oussama_Ennaciri_87319.pdf](https://github.com/user-attachments/files/24438840/Dynamic_Smart_Heating_Control_with_Real-Time_Occupancy_Monitoring_System_Final_report_Oussama_Ennaciri_87319.pdf)
+
 ---
 
 ## Overview
