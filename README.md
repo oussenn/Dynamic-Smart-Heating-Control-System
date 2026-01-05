@@ -25,8 +25,10 @@ Visual references:
 building occupancy dashboard summarizing room utilization.
 
 
-<img width="270" height="805" alt="image" src="https://github.com/user-attachments/assets/0af6548d-9ef4-4ec3-a8a9-cd0ff23017b1" />
 
+<p align="center">
+  <img width="270" height="805" alt="image" src="https://github.com/user-attachments/assets/0af6548d-9ef4-4ec3-a8a9-cd0ff23017b1" />
+</p>
 current classes cards highlighting active courses and locations.
 
 ---
