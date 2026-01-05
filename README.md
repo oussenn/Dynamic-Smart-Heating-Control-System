@@ -3,11 +3,9 @@
   <img width="1536" height="1024" alt="Logo"
        src="https://github.com/user-attachments/assets/62c251be-bae6-433c-b7f4-8c30bde1b3ac" />
 </p>
-
-
 # Dynamic Smart Heating Control System
 
-A real-time, energy-aware platform that adjusts building heating based on class schedules and live occupancy. The system combines a FastAPI back end, PostgreSQL data store, and a Next.js dashboard with geospatial heatmaps to reduce energy waste across campus buildings.
+A real-time, energy-aware platform that adjusts building heating based on class schedules and live occupancy. The system's goal is to reduce energy waste across campus buildings.
 
 
 Full Report:
