@@ -39,10 +39,10 @@ current classes cards highlighting active courses and locations.
 | Frontend | JavaScript (some TS)  | Next.js, React, Tailwind CSS, Leaflet, Recharts, Radix UI, clsx, Lucide, React Router DOM | Vercel, ESLint          |
 
 
-![React](https://github.com/user-attachments/assets/d1feff00-4288-410f-97a4-3f31a9304ec1)   <img width="1052" height="1052" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/3d95e496-6c76-48f5-a668-8bf1ade4423f" />
+![React](https://github.com/user-attachments/assets/d1feff00-4288-410f-97a4-3f31a9304ec1)   <img width="526" height="526" alt="JavaScript-logo" src="https://github.com/user-attachments/assets/3d95e496-6c76-48f5-a668-8bf1ade4423f" />
 
 
-<img width="269" height="326" alt="python-logo-only" src="https://github.com/user-attachments/assets/9a711594-f6e0-40ea-9621-adaafacbda8a" />   <img width="810" height="900" alt="pngegg" src="https://github.com/user-attachments/assets/2876d9cd-cf85-4251-8afb-fcdc2a625fa1" />
+<img width="269" height="326" alt="python-logo-only" src="https://github.com/user-attachments/assets/9a711594-f6e0-40ea-9621-adaafacbda8a" />   <img width="405" height="450" alt="pngegg" src="https://github.com/user-attachments/assets/2876d9cd-cf85-4251-8afb-fcdc2a625fa1" />
 
 ---
 
