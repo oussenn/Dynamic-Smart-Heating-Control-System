@@ -11,7 +11,16 @@ A real-time, energy-aware platform that adjusts building heating based on class 
 - Analytics dashboards for classes in session, heater state, and historical occupancy trends.
 - Modular architecture separating the FastAPI service (`buildocc-bend`) and Next.js frontend (`buildocc`).
 
-Visual references: Figure 22 (building occupancy dashboard summarizing room utilization) and Figure 25 (current classes cards highlighting active courses and locations).
+Visual references:
+
+<img width="1719" height="862" alt="image" src="https://github.com/user-attachments/assets/1425bedd-184e-4161-b2d0-3d5d21070e02" />
+
+building occupancy dashboard summarizing room utilization.
+
+
+<img width="270" height="805" alt="image" src="https://github.com/user-attachments/assets/0af6548d-9ef4-4ec3-a8a9-cd0ff23017b1" />
+
+current classes cards highlighting active courses and locations.
 
 ---
 
