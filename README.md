@@ -283,7 +283,7 @@ Academic and research use. For commercial use, contact the author.
 
 - Dr. Moulay El Hassan El Azhari for mentorship and guidance
 - Dr. Ahmed Fiaz for co-supervision and technical feedback
-- Computer Science and Engineering faculty
+- Department of Maintenance faculty
 - Peers who contributed feedback during testing
 
 ---
